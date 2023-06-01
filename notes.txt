@@ -1,0 +1,33 @@
+http://127.0.0.1:3000/index.html
+
+http://localhost:3000
+
+vamos fazer uma pagina de ajuda na parte inferior esquerda
+
+<ion-icon name="information-circle-outline"></ion-icon>
+
+deixar o mesmo icone quando o sanduiche for clicado
+
+deixar ele na mesma posicao
+
+usa de base o site do youtube 
+
+tu clica ali ele fica no mesmo lugar so que nao tem animação 
+
+da pra colocar uma animação quando colocar o mouse em cima, so se quiser 
+
+a logo vai ficar do lado do sanduiche 
+
+podemos criar tambem um perfil com foto na parte direita
+
+quando logar a conta nao pode ter o botão de logar a conta
+
+botao apenas para ver as saidas e entradas 
+
+pagina de personalização de perfil (nome, telefone, email, foto, codigo de funcionario, endereço, entre outros vamos decidir)
+
+fazer botao pra black theme
+
+https://uiverse.io
+
+teste1
